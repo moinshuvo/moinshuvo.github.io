@@ -69,7 +69,7 @@ A list of my publications can be found in this [google scholar link](https://sch
 
 Resources
 ======  
-* [Presentation 1](https://drive.google.com/file/d/1lHfwrmYfT54cidL3ZVS0TPim7Ut_6qv9/view?usp=sharing "Presentation_1").- Additive Manufacturing: Introduction, Overview, Research Opportunities. [Year- 2019]
+* [Presentation 1](https://drive.google.com/file/d/1lHfwrmYfT54cidL3ZVS0TPim7Ut_6qv9/view?usp=sharing "Presentation_1") : Additive Manufacturing: Introduction, Overview, Research Opportunities. [Year- 2019]
 
 
 
