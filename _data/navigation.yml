@@ -12,10 +12,10 @@ main:
     url: /talks/    
 
   - title: "Experience"
-    url: /about.md#experiences    
+    url: /#experiences    
     
   - title: "Education"
-    url: /about.md#education
+    url: /#education
         
   - title: "Blog Posts"
     url: /year-archive/
