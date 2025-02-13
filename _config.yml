@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast"
+site_theme               : "contrastPermalink"
 title                    : "Moinuddin Shuvo"
 title_separator          : "-"
 name                     : &name "Moinuddin Shuvo"
@@ -32,14 +32,14 @@ author:
   email            : "moinuddinshuvo@gmail.com" 
 
   # Academic websites
-  #arxiv            : # URL - Update with the correct link to your profile
+  #arxiv           : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ESdUUlYAAAAJ&hl=en&authuser=1"
-  LinkedIn          : "https://www.linkedin.com/in/moinuddinshuvo/"
+  #impactstory     : # URL
   orcid            : "https://orcid.org/0000-0001-9557-7256"
-  #semantic         : # URL
-  #pubmed           : # URL
+  #semantic        : # URL
+  #pubmed          : # URL
   researchgate     : "https://www.researchgate.net/profile/Md-Moinuddin-Shuvo"
-  #scopus           : # URL
+  #scopus          : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "moinuddinshuvo"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
