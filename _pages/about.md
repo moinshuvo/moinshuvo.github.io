@@ -11,6 +11,16 @@ Greetings, and welcome to my website!\
 My name is Moinuddin Shuvo, and I am a Mechanical Engineer by degree and profession. Feel free to reach out or connect with me!
 
 
+Education
+======
+* 2023: Ph.D. in Mechanical Engineering\
+  Pennsylvania State University, University Park, Pennsylvania.
+* 2020: MSME - Master of Science in Mechanical Engineering\
+  University of Texas at El Paso, El Paso, Texas.
+* 2017: BSME - Bachelor of Science in Mechanical Engineering\
+  Bangladesh University of Engineering and Technology.
+
+
 Experiences
 ======  
 * Mechanical Engineer (II)\
@@ -50,9 +60,3 @@ _ACI Limited, Dhaka, Bangladesh [01/2018 - 06/2018]_
   * Trained over 150 people about different agricultural machinery- Tractors, Power Tillers, Combined Harvester, etc.
   * Followed ISO 9001:2000 for maintaining Quality Management System (QMS).
 
-
-Education
-======
-* 2023: Ph.D. in Mechanical Engineering, Pennsylvania State University, University Park, Pennsylvania. 
-* 2020: MSME (Master of Science in Mechanical Engineering), University of Texas at El Paso, El Paso, Texas.
-* 2017: BSME (Bachelor of Science in Mechanical Engineering), Bangladesh University of Engineering and Technology. 
