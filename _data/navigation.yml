@@ -11,11 +11,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Experience"
+    url: /about.md#experiences    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Education"
+    url: /about.md#education
         
   - title: "Blog Posts"
     url: /year-archive/
