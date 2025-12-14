@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Greetings, and welcome to my website!\
-My name is Moinuddin Shuvo, and I am a Mechanical Engineer by degree and profession. Feel free to reach out or connect with me!
+My name is Moin Shuvo, and I am a Mechanical Engineer by degree and profession. Feel free to reach out or connect with me!
 
 
 Education
