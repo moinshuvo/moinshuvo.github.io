@@ -24,17 +24,17 @@ Education
 Experiences
 ======  
 * Mechanical Engineer (II)\
-_Parker Hannifin Corp., Mentor, OH [10/2023 - Current]_
+_Parker Hannifin Corp., Mentor, OH [10/2023 - Current]
 * Mechanical Design Engineer.\
-_Tesla Inc., Austin, TX [04/2023 - 08/2023]_
+_Tesla Inc., Austin, TX [04/2023 - 08/2023]
 * Spring and Summer Co-Op\
-_Ashland Foundry & Machine Works LLC, Ashland, PA [01/2022 - 07/2022]_
+_Ashland Foundry & Machine Works LLC, Ashland, PA [01/2022 - 07/2022]
 * Graduate Research Assistant\
-_The SHAPE Lab, Pennsylvania State University, State College, PA [09/2020 - Current]_
+_The SHAPE Lab, Pennsylvania State University, State College, PA [09/2020 - 08/2023]
 * Graduate Research Assistant \
-_W. M. Keck Center, The University of Texas at El Paso, El Paso, Texas [09/2018 - 05/2020]_
+_W. M. Keck Center, The University of Texas at El Paso, El Paso, Texas [09/2018 - 05/2020]
 * Assistant Engineer\
-_ACI Limited, Dhaka, Bangladesh [01/2018 - 06/2018]_
+_ACI Limited, Dhaka, Bangladesh [01/2018 - 06/2018]
 
 
 Publications
