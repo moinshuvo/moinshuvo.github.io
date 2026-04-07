@@ -12,14 +12,7 @@ My name is Moin Shuvo, and I am a Mechanical Engineer by degree and profession. 
 
 
 Education
-======
-* 2023: Ph.D. in Mechanical Engineering\
-  Pennsylvania State University, University Park, Pennsylvania.
-* 2020: Master of Science in Mechanical Engineering\
-  University of Texas at El Paso, El Paso, Texas.
-* 2017: Bachelor of Science in Mechanical Engineering\
-  Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
-  
+======  
 | Year             | Degree                          | Institution                                                             |
 | --------         | ------                          | ------------------------------------------------------------            |
 | 2023             | Ph.D. in Mechanical Engineering | Pennsylvania State University, University Park, Pennsylvania.           |
