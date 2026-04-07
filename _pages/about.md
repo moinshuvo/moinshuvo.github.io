@@ -18,8 +18,13 @@ Education
 * 2020: Master of Science in Mechanical Engineering\
   University of Texas at El Paso, El Paso, Texas.
 * 2017: Bachelor of Science in Mechanical Engineering\
-  Bangladesh University of Engineering and Technology, Dhaka, Bangladesh 
-
+  Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+  
+| Year             | Degree                          | Institution                                                             |
+| --------         | ------                          | ------------------------------------------------------------            |
+| 2023             | Ph.D. in Mechanical Engineering | Pennsylvania State University, University Park, Pennsylvania.           |
+| 2020             | MSc. in Mechanical Engineering  | University of Texas at El Paso, El Paso, Texas.                         |
+| 2017             | BSc. in Mechanical Engineering  | Bangladesh University of Engineering and Technology, Dhaka, Bangladesh  |
 
 Experiences
 ======  
@@ -36,9 +41,7 @@ Experiences
 * Assistant Engineer\
   ACI Limited, Dhaka, Bangladesh [01/2018 - 06/2018]
 
-Column A          Column B          Column C
-Data 1            Data 2            Data 3
-Data 4            Data 5            Data 6
+
 
 
 Publications
