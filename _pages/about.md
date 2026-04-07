@@ -36,6 +36,10 @@ Experiences
 * Assistant Engineer\
   ACI Limited, Dhaka, Bangladesh [01/2018 - 06/2018]
 
+Column A          Column B          Column C
+Data 1            Data 2            Data 3
+Data 4            Data 5            Data 6
+
 
 Publications
 ======  
